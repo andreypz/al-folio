@@ -8,6 +8,7 @@ profile:
   align: right
   image: about/me_night.jpg
   image_circular: false # crops the image to make it circular
+
   address: >
     <p align="center">This is me</p>
 
@@ -194,17 +195,17 @@ Thanks for reading. For more detailed info see my [CV](./cv).
 [1] Andrey Pozdnyakov, “Search for the Higgs Boson Decays to a Photon
 and Two Leptons with Low Dilepton Invariant Mass”, Northwestern
 University, Dec. 2015,
-[CMS-TS-2016-001](https://web.archive.org/web/20200824175357/http://cds.cern.ch/record/2119232),
-[CERN-THESIS-2015-256](https://web.archive.org/web/20200824175357/http://cds.cern.ch/record/2119232),
-[[arXiv:1601.00790](https://web.archive.org/web/20200824175357/https://arxiv.org/abs/1601.00790)]
+[CMS-TS-2016-001](http://cds.cern.ch/record/2119232),
+[CERN-THESIS-2015-256](https://cds.cern.ch/record/2119232),
+[[arXiv:1601.00790](https://arxiv.org/abs/1601.00790)]
 
 [2] “Pseudorapidity distributions of charged particles in pp
 collisions at √s = 7 TeV with at least one central charged particle”,
 CMS Collaboration,
-[CMS-PAS-QCD-10-024](https://web.archive.org/web/20200824175357/https://cds.cern.ch/record/1341853),
+[CMS-PAS-QCD-10-024](https://cds.cern.ch/record/1341853),
 Apr. 2011
 
-[3] “[Minimum Bias and Underlying Event Working Group documents](https://web.archive.org/web/20200824175357/https://lpcc.web.cern.ch/content/mb-ue-wg-documents)”
+[3] “[Minimum Bias and Underlying Event Working Group documents](https://lpcc.web.cern.ch/content/mb-ue-wg-documents)”
 
 [4] “Luminosity Study: Events Selected with a Central Track” Andrey
 Pozdnyakov, Michael Schmitt, Mayda Velasco, CMS Internal presentation,
@@ -212,32 +213,32 @@ CMS-DP-2011-004, Jun. 2011
 
 [5] “Search for the standard model Higgs boson in the H → ZZ → 2ℓ2ν
 channel in pp collisions at √s = 7 TeV”, CMS Collaboration, 2012,
-[JHEP 03, 040 (2012)](https://web.archive.org/web/20200824175357/https://link.springer.com/article/10.1007/JHEP03(2012)040),
-[[arXiv:1202.3478](https://web.archive.org/web/20200824175357/https://arxiv.org/abs/1202.3478)]
+[JHEP 03, 040 (2012)](https://link.springer.com/article/10.1007/JHEP03(2012)040),
+[[arXiv:1202.3478](https://arxiv.org/abs/1202.3478)]
 
 [6] “Search for Higgs boson pair production in the final state
 containing two photons and two bottom quarks in proton-proton
 collisions at √s = 13 TeV”, CMS Collaboration, [2018, Phys. Lett. B
-788](https://web.archive.org/web/20200824175357/https://doi.org/10.1016/j.physletb.2018.10.056),
-[CMS-HIG-17-008](https://web.archive.org/web/20200824175357/https://cds.cern.ch/record/2621190),
-[doi:10.1016/j.physletb.2018.10.056](https://web.archive.org/web/20200824175357/https://doi.org/10.1007/JHEP11(2018)152),
-[[arXiv:1806.00408](https://web.archive.org/web/20200824175357/https://arxiv.org/abs/1806.05996)]
+788](https://doi.org/10.1016/j.physletb.2018.10.056),
+[CMS-HIG-17-008](https://cds.cern.ch/record/2621190),
+[doi:10.1016/j.physletb.2018.10.056](https://doi.org/10.1007/JHEP11(2018)152),
+[[arXiv:1806.00408](https://arxiv.org/abs/1806.05996)]
 
 [7] “Search for the standard model Higgs boson in the dilepton plus
 photon channel in pp collisions at √s = 13 TeV, CMS Collaboration,
 2018, [JHEP 11, 152
-(2018)](https://web.archive.org/web/20200824175357/https://link.springer.com/article/10.1007%2FJHEP11%282018%29152),
-[CMS-HIG-17-007](https://web.archive.org/web/20200824175357/https://cds.cern.ch/record/2624385),
-[doi:10.1007/JHEP11(2018)152](https://web.archive.org/web/20200824175357/https://doi.org/10.1007/JHEP11(2018)152),
-[[arXiv:1806.05996](https://web.archive.org/web/20200824175357/https://arxiv.org/abs/1806.05996)]
+(2018)](https://link.springer.com/article/10.1007%2FJHEP11%282018%29152),
+[CMS-HIG-17-007](https://cds.cern.ch/record/2624385),
+[doi:10.1007/JHEP11(2018)152](https://doi.org/10.1007/JHEP11(2018)152),
+[[arXiv:1806.05996](https://arxiv.org/abs/1806.05996)]
 
 [8] “Search for a Higgs boson decaying into γ*γ to ℓℓγ with low
 dilepton mass in pp collisions at √s = 8 TeV”, CMS Collaboration,
 2015, [Phys. Lett. B
-753](https://web.archive.org/web/20200824175357/https://www.sciencedirect.com/science/article/pii/S0370269315009879),
-[CMS-HIG-14-003](https://web.archive.org/web/20200824175357/https://cds.cern.ch/record/2033215),
-[doi:10.1016/j.physletb.2015.12.039](https://web.archive.org/web/20200824175357/https://doi.org/10.1016/j.physletb.2015.12.039),
-[[arXiv:1507.03031](https://web.archive.org/web/20200824175357/https://arxiv.org/abs/1507.03031)]
+753](https://www.sciencedirect.com/science/article/pii/S0370269315009879),
+[CMS-HIG-14-003](https://cds.cern.ch/record/2033215),
+[doi:10.1016/j.physletb.2015.12.039](https://doi.org/10.1016/j.physletb.2015.12.039),
+[[arXiv:1507.03031](https://arxiv.org/abs/1507.03031)]
 
 [9] A. Anastassov et al., “Single Particle Response in the CMS
 Calorimeter”, CMS Internal AN-2010/179
