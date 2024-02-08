@@ -197,7 +197,7 @@ ICHEP-2022 conference. The proceedings for my talk can be found at
 [[15](#ref)].
 
 
-Thanks for reading. For more detailed info see my [CV](./cv).
+Thanks for reading. For more detailed info see my [CV](./cv/).
 
 ### <a name="ref">References</a>
 
