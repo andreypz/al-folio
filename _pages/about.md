@@ -204,7 +204,7 @@ Thanks for reading. For more detailed info see my [CV](./cv/).
 [1] Andrey Pozdnyakov, “Search for the Higgs Boson Decays to a Photon
 and Two Leptons with Low Dilepton Invariant Mass”, Northwestern
 University, Dec. 2015,
-[CMS-TS-2016-001](http://cds.cern.ch/record/2119232),
+CMS-TS-2016-001,
 [CERN-THESIS-2015-256](https://cds.cern.ch/record/2119232),
 [[arXiv:1601.00790](https://arxiv.org/abs/1601.00790)]
 
